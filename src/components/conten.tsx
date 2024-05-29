@@ -33,6 +33,56 @@ export default function Conten() {
       image: "avatar.jpeg",
       title: "My Instagram",
     },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
+    {
+      link: "https://www.instagram.com/selenagomez/",
+      image: "avatar.jpeg",
+      title: "My Instagram",
+    },
   ];
 
   return (
