@@ -6,7 +6,6 @@ import Header from "@/components/header";
 export default function Home() {
   return (
     <main className="ml-5 mr-5">
-      <Header />
       <div className="mt-20 md:z-20 mx-auto">
         <div>
           <header>
@@ -22,6 +21,7 @@ export default function Home() {
       </div>
       {/* </div>
       </div> */}
+      <Header />
     </main>
   );
 }
