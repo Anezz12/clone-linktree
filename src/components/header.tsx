@@ -28,7 +28,7 @@ export default function Header() {
         href="https://api.whatsapp.com/send?phone=6281230498560"
         target="_blank"
         rel="noopener noreferrer"
-        className="flex items-center justify-center py-1 mt-5 border rounded-lg border-transparent  shadow-lg shadow-zinc-500/10 bg-zinc-600 ml-5 mr-5 md:ml-0 md:mr-0 "
+        className="flex items-center justify-center py-3 mt-5 border rounded-lg border-transparent  shadow-lg shadow-zinc-500/10 bg-zinc-600 ml-5 mr-5 md:ml-0 md:mr-0 "
       >
         <svg className="w-5 h-5 mr-2" viewBox="0 0 24 24">
           <svg
